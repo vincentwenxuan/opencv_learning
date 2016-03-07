@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/opencv_learning/cv_sample/.idea/cv_official_sample.iml" filepath="$USER_HOME$/Desktop/opencv_learning/cv_sample/.idea/cv_official_sample.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/opencv_learning/cv_sample_official/.idea/cv_sample.iml" filepath="$USER_HOME$/Desktop/opencv_learning/cv_sample_official/.idea/cv_sample.iml" />
+    </modules>
+  </component>
+</project>
