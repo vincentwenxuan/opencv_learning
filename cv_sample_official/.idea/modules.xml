@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Desktop/opencv_learning/cv_sample/.idea/cv_official_sample.iml" filepath="$USER_HOME$/Desktop/opencv_learning/cv_sample/.idea/cv_official_sample.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/opencv_learning/cv_sample_official/.idea/cv_sample.iml" filepath="$USER_HOME$/Desktop/opencv_learning/cv_sample_official/.idea/cv_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cv_sample/.idea/cv_official_sample.iml" filepath="$PROJECT_DIR$/../cv_sample/.idea/cv_official_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cv_sample.iml" filepath="$PROJECT_DIR$/.idea/cv_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cv_sample_official.iml" filepath="$PROJECT_DIR$/.idea/cv_sample_official.iml" />
     </modules>
   </component>
 </project>
