@@ -11,7 +11,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 img = cv2.imread('../images/lenna.png', 0)
-edges = cv2.Canny(img, 100, 200) # image, threshold_min, threshold_max
+edges = cv2.Canny(img, 100, 200)  # image, threshold_min, threshold_max
 
 
 plt.subplot(121), plt.imshow(img, cmap='gray')
