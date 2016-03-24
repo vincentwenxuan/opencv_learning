@@ -15,6 +15,8 @@ def display_img(image):
 img = cv2.imread('../images/lenna.png')
 
 # ======= Scaling: resizing the image
+# Preferable interpolation methods are cv2.INTER_AREA for shrinking and
+# cv2.INTER_CUBIC (slow) & cv2.INTER_LINEAR for zooming.
 
 # These two are equivalent:
 # fx,fy represents the scaling factors
